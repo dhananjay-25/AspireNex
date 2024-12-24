@@ -1,4 +1,4 @@
-# AspireNex Machine Learning Internship Projects
+# Machine Learning Internship Projects
 
 This repository contains two projects completed as part of the AspireNex Machine Learning Internship:
 
